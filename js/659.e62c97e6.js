@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkrickyandmorty_app"]=self["webpackChunkrickyandmorty_app"]||[]).push([[659],{2659:function(n,e,o){o.r(e),o.d(e,{default:function(){return m}});var t=o(3396);function r(n,e,o,r,u,a){const c=(0,t.up)("all-component"),p=(0,t.up)("footer-component");return(0,t.wg)(),(0,t.iD)("div",null,[(0,t.Wm)(c,{gender:"female"}),(0,t.Wm)(p)])}var u=o(2813),a=o(1204),c={components:{AllComponent:u.Z,FooterComponent:a.Z},data:function(){return{}}},p=o(89);const l=(0,p.Z)(c,[["render",r]]);var m=l}}]);
-//# sourceMappingURL=659.e62c97e6.js.map
