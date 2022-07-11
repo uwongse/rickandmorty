@@ -1,5 +1,9 @@
 # rickyandmorty-app
 
+### DEPLOY
+https://uwongse.github.io/rickandmorty/
+
+
 ## Project setup
 ```
 npm install
@@ -15,5 +19,3 @@ npm run serve
 npm run build
 ```
 
-### DEPLOY
-https://uwongse.github.io/rickandmorty/
